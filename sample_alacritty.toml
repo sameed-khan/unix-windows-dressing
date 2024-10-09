@@ -1,0 +1,17 @@
+shell = "cmd.exe"
+working_directory = "C:\\Users\\<username>\\<rest-of-path>"
+
+[env]
+COLORTERM = "truecolor"
+
+[window]
+opacity = 0.95
+dynamic_title = true
+decorations_theme_variant = "Dark"
+
+[selection]
+save_to_clipboard = true
+
+[cursor]
+style = { shape = "Beam", blinking = "Off" }
+vi_mode_style = { shape = "Block", blinking = "On" }
